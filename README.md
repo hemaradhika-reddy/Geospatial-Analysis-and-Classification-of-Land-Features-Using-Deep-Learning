@@ -1,7 +1,7 @@
 Here's a GitHub-style project description (README.md):
 
 # Deep Learning for Land Feature Classification
-## Using Google Earth Imagery & FCN/U-Net Architectures
+
 
 A robust deep learning framework for classifying land features using freely available Google Earth imagery. This project demonstrates an accessible approach to geospatial analysis using modern neural network architectures.
 
