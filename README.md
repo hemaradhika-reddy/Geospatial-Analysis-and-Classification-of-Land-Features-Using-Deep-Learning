@@ -1,0 +1,2 @@
+# Geospatial-Analysis-and-Classification-of-Land-Features-Using-Deep-Learning
+# Land Feature Classification with Deep Learning  A deep learning framework using FCN and U-Net to classify land features from Google Earth imagery. Offers affordable geospatial analysis through: - Multi-zoom image processing - Mixed landscape classification  - Easy preprocessing pipeline  Built with TensorFlow &amp; Google Earth API.  
